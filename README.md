@@ -22,7 +22,7 @@ My Python script is designed to work with **Discord user account tokens** (not b
 - Saves matched messages to `toxxable.txt` with message links and person who sent info.
 - Reports messages or servers on Discord’s API v10 `/report` endpoint.
 - Supports multiple report reasons (spam, harassment, child abuse, etc.).
-- Works asynchronously for efficiency.
+- Works asynchronously for the best outcome.
 
 ---
 
