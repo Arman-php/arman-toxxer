@@ -12,6 +12,7 @@ My Python script is designed to work with **Discord user account tokens** (not b
 2. **Mass Reporter**  
    Allows mass reporting of specific messages or entire guilds using multiple user tokens gotten from a file. You can send reports for multiple reasons and however much times you want (per token).
 
+Add me on discord for any help: arman.gov
 ---
 
 ## Features
@@ -45,4 +46,4 @@ My Python script is designed to work with **Discord user account tokens** (not b
 2. **Run the script:**
 
    ```bash
-   python your_script_name.py```
+   python your_script_name.py
